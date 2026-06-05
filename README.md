@@ -7,6 +7,7 @@ A personal collection of cheat sheets for Data Analysis and Machine Learning usi
 | Topic | Cheat Sheet |
 |-------|-------------|
 | NumPy | [numpy_cheatsheet.md](numpy_cheatsheet.md) |
+| Pandas (Basics) | [pandas_basics_cheatsheet.md](pandas_basics_cheatsheet.md) |
 
 ## Reference 
 
