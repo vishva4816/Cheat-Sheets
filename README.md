@@ -8,7 +8,7 @@ A personal collection of cheat sheets for Data Analysis and Machine Learning usi
 |-------|-------------|
 | NumPy | [numpy_cheatsheet.md](numpy_cheatsheet.md) |
 | Pandas (Basics) | [pandas_basics_cheatsheet.md](pandas_basics_cheatsheet.md) |
-| Pandas (Data Cleaning and Preparation) | [pandas_data_cleaning_and_preparation_cheatsheet.md](pandas_data_cleaning_and_preparation_cheatsheet.md) |
+| Pandas (Data Cleaning and Preparation) | [pandas_data_cleaning_and_preparation_cheatsheet.md](pandas_data_cleaning_and_preparation.md) |
 
 ## Reference 
 
